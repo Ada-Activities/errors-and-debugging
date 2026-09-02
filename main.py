@@ -3,9 +3,9 @@ from runtime import *
 from logical import *
 
 def main():
-    syntax_errors()
+    # syntax_errors()       #errors fixed
     runtime_errors()
-    logical_errors()
+    # logical_errors()
 
 if __name__ == "__main__":
     main()
